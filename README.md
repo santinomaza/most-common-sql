@@ -1,2 +1,2 @@
 # most-common-sql-readme-repository
-most common query
+most common query sql
